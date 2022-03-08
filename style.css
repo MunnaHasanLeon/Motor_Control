@@ -12,6 +12,7 @@
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
+    position: relative;
 }
 .header .discription span{
     color: gray;
@@ -84,4 +85,11 @@
 
 #btn:hover{
     background-color: rgb(255, 123, 0);
+}
+
+
+.header .copywrite{
+    color: rgb(145, 66, 66);
+    text-align: center;
+    margin-top: 300px;
 }
